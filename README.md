@@ -2,8 +2,9 @@
 This repository contains the experiments for the paper "Self-Supervision, Remote Sensing and Abstraction: Representation Learning Across 3 Million Locations"
 
 
-# Results
+### Results
 | Experiment | Imagery | Workflow | Pretrain cities | test cities | Accuracy |
+| ------ | ------ | ------ | ------ | ------ | ------ |
 |Generalizability|Satellite|MoCo V1|200|200|95%|
 |Generalizability|Satellite|MoCo V2|200|200|99%|
 |Generalizability|Satellite|MoCo V1|200|1690|81%|
