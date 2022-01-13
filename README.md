@@ -1,5 +1,5 @@
 # self-supervision-remote-sensing-abstraction
-This repository contains the experiments for the paper "Self-Supervision, Remote Sensing and Abstraction: Representation Learning Across 3 Million Locations"
+This repository contains the experiments for the paper "[Self-Supervision, Remote Sensing and Abstraction: Representation Learning Across 3 Million Locations](https://ieeexplore.ieee.org/document/9647061)"
 
 
 # Results
